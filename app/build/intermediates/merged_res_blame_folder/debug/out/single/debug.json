@@ -1,0 +1,186 @@
+[
+    {
+        "merged": "D:\\BiodataSiswa\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\BiodataSiswa\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\BiodataSiswa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bg_pink.png.flat",
+        "source": "D:\\BiodataSiswa\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\bg_pink.png"
+    },
+    {
+        "merged": "D:\\BiodataSiswa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_delete.png.flat",
+        "source": "D:\\BiodataSiswa\\app\\src\\main\\res\\drawable-xxhdpi\\ic_delete.png"
+    },
+    {
+        "merged": "D:\\BiodataSiswa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_bg_pink.png.flat",
+        "source": "D:\\BiodataSiswa\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\bg_pink.png"
+    },
+    {
+        "merged": "D:\\BiodataSiswa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_add.xml.flat",
+        "source": "D:\\BiodataSiswa\\app\\src\\main\\res\\drawable-anydpi\\ic_add.xml"
+    },
+    {
+        "merged": "D:\\BiodataSiswa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_add.png.flat",
+        "source": "D:\\BiodataSiswa\\app\\src\\main\\res\\drawable-mdpi\\ic_add.png"
+    },
+    {
+        "merged": "D:\\BiodataSiswa\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\BiodataSiswa\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\BiodataSiswa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_delete.xml.flat",
+        "source": "D:\\BiodataSiswa\\app\\src\\main\\res\\drawable-anydpi\\ic_delete.xml"
+    },
+    {
+        "merged": "D:\\BiodataSiswa\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_plug.xml.flat",
+        "source": "D:\\BiodataSiswa\\app\\src\\main\\res\\layout\\item_plug.xml"
+    },
+    {
+        "merged": "D:\\BiodataSiswa\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\BiodataSiswa\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\BiodataSiswa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_delete.png.flat",
+        "source": "D:\\BiodataSiswa\\app\\src\\main\\res\\drawable-mdpi\\ic_delete.png"
+    },
+    {
+        "merged": "D:\\BiodataSiswa\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\BiodataSiswa\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\BiodataSiswa\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\BiodataSiswa\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\BiodataSiswa\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\BiodataSiswa\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\BiodataSiswa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\BiodataSiswa\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\BiodataSiswa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_bg_pink.png.flat",
+        "source": "D:\\BiodataSiswa\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\bg_pink.png"
+    },
+    {
+        "merged": "D:\\BiodataSiswa\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\BiodataSiswa\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\BiodataSiswa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_bg_pink.png.flat",
+        "source": "D:\\BiodataSiswa\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\bg_pink.png"
+    },
+    {
+        "merged": "D:\\BiodataSiswa\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\BiodataSiswa\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\BiodataSiswa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_add.png.flat",
+        "source": "D:\\BiodataSiswa\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add.png"
+    },
+    {
+        "merged": "D:\\BiodataSiswa\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_create_plug.xml.flat",
+        "source": "D:\\BiodataSiswa\\app\\src\\main\\res\\layout\\activity_create_plug.xml"
+    },
+    {
+        "merged": "D:\\BiodataSiswa\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_list_mhs.xml.flat",
+        "source": "D:\\BiodataSiswa\\app\\src\\main\\res\\layout\\activity_list_mhs.xml"
+    },
+    {
+        "merged": "D:\\BiodataSiswa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_profil.xml.flat",
+        "source": "D:\\BiodataSiswa\\app\\src\\main\\res\\drawable-anydpi\\ic_profil.xml"
+    },
+    {
+        "merged": "D:\\BiodataSiswa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_aslab.png.flat",
+        "source": "D:\\BiodataSiswa\\app\\src\\main\\res\\drawable-v24\\aslab.png"
+    },
+    {
+        "merged": "D:\\BiodataSiswa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_bg_pink.png.flat",
+        "source": "D:\\BiodataSiswa\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\bg_pink.png"
+    },
+    {
+        "merged": "D:\\BiodataSiswa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_mhs.png.flat",
+        "source": "D:\\BiodataSiswa\\app\\src\\main\\res\\drawable-v24\\mhs.png"
+    },
+    {
+        "merged": "D:\\BiodataSiswa\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_button_primary.xml.flat",
+        "source": "D:\\BiodataSiswa\\app\\src\\main\\res\\drawable\\bg_button_primary.xml"
+    },
+    {
+        "merged": "D:\\BiodataSiswa\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_mhs.xml.flat",
+        "source": "D:\\BiodataSiswa\\app\\src\\main\\res\\layout\\item_mhs.xml"
+    },
+    {
+        "merged": "D:\\BiodataSiswa\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\BiodataSiswa\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\BiodataSiswa\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\BiodataSiswa\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\BiodataSiswa\\app\\build\\intermediates\\res\\merged\\debug\\menu_popup_menu.xml.flat",
+        "source": "D:\\BiodataSiswa\\app\\src\\main\\res\\menu\\popup_menu.xml"
+    },
+    {
+        "merged": "D:\\BiodataSiswa\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\BiodataSiswa\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\BiodataSiswa\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_overflow.xml.flat",
+        "source": "D:\\BiodataSiswa\\app\\src\\main\\res\\drawable\\ic_overflow.xml"
+    },
+    {
+        "merged": "D:\\BiodataSiswa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_bg_pink.png.flat",
+        "source": "D:\\BiodataSiswa\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\bg_pink.png"
+    },
+    {
+        "merged": "D:\\BiodataSiswa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_delete.png.flat",
+        "source": "D:\\BiodataSiswa\\app\\src\\main\\res\\drawable-hdpi\\ic_delete.png"
+    },
+    {
+        "merged": "D:\\BiodataSiswa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_add.png.flat",
+        "source": "D:\\BiodataSiswa\\app\\src\\main\\res\\drawable-xhdpi\\ic_add.png"
+    },
+    {
+        "merged": "D:\\BiodataSiswa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_delete.png.flat",
+        "source": "D:\\BiodataSiswa\\app\\src\\main\\res\\drawable-xhdpi\\ic_delete.png"
+    },
+    {
+        "merged": "D:\\BiodataSiswa\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_create_mhs.xml.flat",
+        "source": "D:\\BiodataSiswa\\app\\src\\main\\res\\layout\\activity_create_mhs.xml"
+    },
+    {
+        "merged": "D:\\BiodataSiswa\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\BiodataSiswa\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\BiodataSiswa\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\BiodataSiswa\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\BiodataSiswa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_add.png.flat",
+        "source": "D:\\BiodataSiswa\\app\\src\\main\\res\\drawable-hdpi\\ic_add.png"
+    },
+    {
+        "merged": "D:\\BiodataSiswa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_bg_pink.xml.flat",
+        "source": "D:\\BiodataSiswa\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\bg_pink.xml"
+    },
+    {
+        "merged": "D:\\BiodataSiswa\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_update_plug.xml.flat",
+        "source": "D:\\BiodataSiswa\\app\\src\\main\\res\\layout\\activity_update_plug.xml"
+    },
+    {
+        "merged": "D:\\BiodataSiswa\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_update_mhs.xml.flat",
+        "source": "D:\\BiodataSiswa\\app\\src\\main\\res\\layout\\activity_update_mhs.xml"
+    },
+    {
+        "merged": "D:\\BiodataSiswa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_mahasiswa.jpg.flat",
+        "source": "D:\\BiodataSiswa\\app\\src\\main\\res\\drawable-v24\\mahasiswa.jpg"
+    },
+    {
+        "merged": "D:\\BiodataSiswa\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\BiodataSiswa\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    }
+]

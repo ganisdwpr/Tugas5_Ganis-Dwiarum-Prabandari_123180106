@@ -1,0 +1,63 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.ganis.biodataMhs"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->D:\BiodataSiswa\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->D:\BiodataSiswa\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->D:\BiodataSiswa\app\src\main\AndroidManifest.xml:5:5-29:19
+12        android:allowBackup="true"
+12-->D:\BiodataSiswa\app\src\main\AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.1.0] C:\Users\ASUS\.gradle\caches\transforms-2\files-2.1\e601daed4ba62929db8b322b2974c8f8\core-1.1.0\AndroidManifest.xml:24:18-86
+14        android:debuggable="true"
+15        android:icon="@mipmap/ic_launcher"
+15-->D:\BiodataSiswa\app\src\main\AndroidManifest.xml:7:9-43
+16        android:label="@string/app_name"
+16-->D:\BiodataSiswa\app\src\main\AndroidManifest.xml:8:9-41
+17        android:roundIcon="@mipmap/ic_launcher_round"
+17-->D:\BiodataSiswa\app\src\main\AndroidManifest.xml:9:9-54
+18        android:supportsRtl="true"
+18-->D:\BiodataSiswa\app\src\main\AndroidManifest.xml:10:9-35
+19        android:theme="@style/AppTheme" >
+19-->D:\BiodataSiswa\app\src\main\AndroidManifest.xml:11:9-40
+20        <activity
+20-->D:\BiodataSiswa\app\src\main\AndroidManifest.xml:12:9-21:20
+21            android:name="com.ganis.biodataMhs.Activities.MainActivity"
+21-->D:\BiodataSiswa\app\src\main\AndroidManifest.xml:13:13-72
+22            android:label="@string/app_name"
+22-->D:\BiodataSiswa\app\src\main\AndroidManifest.xml:14:13-45
+23            android:theme="@style/AppTheme.NoActionBar" >
+23-->D:\BiodataSiswa\app\src\main\AndroidManifest.xml:15:13-56
+24            <intent-filter>
+24-->D:\BiodataSiswa\app\src\main\AndroidManifest.xml:16:13-20:29
+25                <action android:name="android.intent.action.MAIN" />
+25-->D:\BiodataSiswa\app\src\main\AndroidManifest.xml:17:17-69
+25-->D:\BiodataSiswa\app\src\main\AndroidManifest.xml:17:25-66
+26
+27                <category android:name="android.intent.category.LAUNCHER" />
+27-->D:\BiodataSiswa\app\src\main\AndroidManifest.xml:19:17-77
+27-->D:\BiodataSiswa\app\src\main\AndroidManifest.xml:19:27-74
+28            </intent-filter>
+29        </activity>
+30        <activity android:name="com.ganis.biodataMhs.Activities.CreatePlugActivity" />
+30-->D:\BiodataSiswa\app\src\main\AndroidManifest.xml:22:9-23:81
+30-->D:\BiodataSiswa\app\src\main\AndroidManifest.xml:23:13-78
+31        <activity android:name="com.ganis.biodataMhs.Activities.UpdatePlugActivity" />
+31-->D:\BiodataSiswa\app\src\main\AndroidManifest.xml:24:9-25:81
+31-->D:\BiodataSiswa\app\src\main\AndroidManifest.xml:25:13-78
+32        <activity android:name="com.ganis.biodataMhs.Activities.ListMhsActivity" />
+32-->D:\BiodataSiswa\app\src\main\AndroidManifest.xml:26:9-27:78
+32-->D:\BiodataSiswa\app\src\main\AndroidManifest.xml:27:13-75
+33        <activity android:name="com.ganis.biodataMhs.Activities.CreateMhsActivity" />
+33-->D:\BiodataSiswa\app\src\main\AndroidManifest.xml:28:9-86
+33-->D:\BiodataSiswa\app\src\main\AndroidManifest.xml:28:19-83
+34    </application>
+35
+36</manifest>
